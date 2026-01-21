@@ -133,13 +133,13 @@ All errors return meaningful JSON responses without crashing the server.
 
 ---
 
-## ✅ Project Outcome
+##  Project Outcome
 
 The Library Management System successfully meets all sprint task requirements by implementing a validated database schema, complete CRUD operations, conditional business logic, and robust error handling. The project demonstrates a clear understanding of backend development, API testing, and full-stack integration.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Search functionality  
 - Filter books by category and year  
@@ -148,6 +148,6 @@ The Library Management System successfully meets all sprint task requirements by
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This project provides a complete demonstration of a real-world CRUD-based application using modern web technologies. It follows best practices in schema design, API development, validation, and error handling, making it suitable for academic submission, internship evaluation, and portfolio presentation.
