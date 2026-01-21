@@ -14,7 +14,7 @@ The Library Management System is a full-stack web application developed to manag
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The main objectives of this project are:
 
