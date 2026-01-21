@@ -47,7 +47,7 @@ The main objectives of this project are:
 
 ---
 
-## 🗄️ Database Design
+## Database Design
 
 ### Database Details
 - **Database Name:** `libraryDB`  
