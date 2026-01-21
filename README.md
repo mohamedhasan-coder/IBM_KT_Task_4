@@ -123,7 +123,7 @@ All errors return meaningful JSON responses without crashing the server.
 
 ---
 
-## 🎨 Frontend Overview
+##  Frontend Overview
 
 - User-friendly interface with navbar and sidebar  
 - Form to add and edit books  
