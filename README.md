@@ -1,4 +1,4 @@
-# 📚 Project Details – Library Management System
+# Project Details – Library Management System
 
 ---
 
