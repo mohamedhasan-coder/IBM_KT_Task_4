@@ -92,7 +92,7 @@ The main objectives of this project are:
 
 ---
 
-## 📏 Business Rules Implemented
+## Business Rules Implemented
 
 - Books cannot have negative available copies  
 - Books cannot be deleted if copies are greater than zero  
