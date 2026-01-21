@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Title
+## Project Title
 
 **Library Management System using Node.js, Express, MongoDB, and React**
 
