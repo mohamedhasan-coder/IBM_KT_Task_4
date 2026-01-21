@@ -70,7 +70,7 @@ The main objectives of this project are:
 
 ---
 
-## ⚙️ Functional Features
+## Functional Features
 
 ### CRUD Operations
 
