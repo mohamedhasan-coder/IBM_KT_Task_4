@@ -27,7 +27,7 @@ The main objectives of this project are:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 - **Node.js** – Server-side runtime environment  
