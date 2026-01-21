@@ -114,7 +114,7 @@ All errors return meaningful JSON responses without crashing the server.
 
 ---
 
-## 🧪 API Testing
+## API Testing
 
 - All APIs were tested using **Postman**  
 - CRUD operations verified using real MongoDB ObjectIds  
