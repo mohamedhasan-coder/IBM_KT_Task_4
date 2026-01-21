@@ -101,7 +101,7 @@ The main objectives of this project are:
 
 ---
 
-## ❗ Error Handling
+##  Error Handling
 
 The system handles the following exceptions:
 
