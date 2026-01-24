@@ -14,7 +14,7 @@ export default function BookCard({ book, onDelete, onEdit }) {
       <p className="text-sm text-gray-700">
         <b>Year:</b> {book.publishedYear}
       </p>
-      <p className="text-sm text-gray-700">
+      <p className="text-sm text-gray-700"> 
         <b>Available:</b> {book.availableCopies}
       </p>
 
