@@ -8,7 +8,7 @@ export default function BookCard({ book, onDelete, onEdit }) {
       <p className="text-sm text-gray-700">
         <b>Author:</b> {book.author}
       </p>
-      <p className="text-sm text-gray-700">
+      <p className="text-sm text-gray-700"> 
         <b>Category:</b> {book.category}
       </p>
       <p className="text-sm text-gray-700">
