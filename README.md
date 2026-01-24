@@ -8,7 +8,7 @@
 
 ---
 
-## Project Description
+## Project Description 
 
 The Library Management System is a full-stack web application developed to manage library book records efficiently. The system allows users to perform core CRUD (Create, Read, Update, Delete) operations on books while enforcing business rules and proper error handling. The application demonstrates backend API development, database schema design, conditional logic, and exception handling, along with a responsive frontend interface.
 
