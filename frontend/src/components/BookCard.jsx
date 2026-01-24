@@ -16,7 +16,7 @@ export default function BookCard({ book, onDelete, onEdit }) {
       </p>
       <p className="text-sm text-gray-700"> 
         <b>Available:</b> {book.availableCopies}
-      </p>
+      </p> 
 
       <div className="flex gap-2 mt-3">
         <button
