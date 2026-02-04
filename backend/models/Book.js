@@ -8,5 +8,4 @@ const bookSchema = new mongoose.Schema({
   availableCopies: { type: Number, required: true, min: 0 }
 });
 
-module.exports = mongoose.model("Book", bookSchema); 
-        
+module.exports = mongoose.model("Book", bookSchema);
